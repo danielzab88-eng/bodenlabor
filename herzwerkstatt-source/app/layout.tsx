@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Herzwerkstatt – Herz und Blutgefäße",
-  description: "Interaktive 60-Minuten-Lernwebsite zum Körperkreislauf in zwei deutlich unterschiedlichen Schwierigkeitsstufen.",
+  title: "Körperkreislauf-Werkstatt",
+  description: "Interaktive 60-Minuten-Lernwebsite ausschließlich zum Körperkreislauf – als Basis- und knifflige Version.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
